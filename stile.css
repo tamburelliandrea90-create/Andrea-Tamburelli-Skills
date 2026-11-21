@@ -1,0 +1,12 @@
+:root { color-scheme: light; font-family: system-ui, sans-serif; background: #f7f7f2; color: #192721; }
+body { margin: 0; }
+main { max-width: 55rem; margin: auto; padding: clamp(1.25rem, 5vw, 4rem); line-height: 1.65; }
+h1 { font-size: clamp(1.85rem, 5vw, 3.5rem); line-height: 1.12; overflow-wrap: anywhere; }
+h2 { font-size: 1.25rem; }
+a { color: #135849; text-underline-offset: .2em; }
+a:focus-visible { outline: .2rem solid #876100; outline-offset: .25rem; }
+.catalogo { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); gap: .65rem; }
+.catalogo a { display: block; padding: .9rem 1rem; border: 1px solid #c6d2c9; border-radius: .5rem; background: white; overflow-wrap: anywhere; }
+.download { display: inline-block; background: #135849; color: white; border-radius: .5rem; padding: .7rem 1rem; }
+section { margin-top: 2rem; border-top: 1px solid #c6d2c9; }
+code { overflow-wrap: anywhere; }
