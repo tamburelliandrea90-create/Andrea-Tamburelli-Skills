@@ -1,6 +1,6 @@
 # Catalogo delle skill
 
-47 skill, ciascuna con descrizione e download ZIP.
+48 skill, ciascuna con descrizione e download ZIP.
 
 - [agency-agents-master-it](agency-agents-master-it/) · [Scarica ZIP](agency-agents-master-it/agency-agents-master-it.zip?raw=true)
 - [agenda-mail](agenda-mail/) · [Scarica ZIP](agenda-mail/agenda-mail.zip?raw=true)
@@ -19,6 +19,7 @@
 - [email-professionali](email-professionali/) · [Scarica ZIP](email-professionali/email-professionali.zip?raw=true)
 - [executing-plans](executing-plans/) · [Scarica ZIP](executing-plans/executing-plans.zip?raw=true)
 - [finishing-a-development-branch](finishing-a-development-branch/) · [Scarica ZIP](finishing-a-development-branch/finishing-a-development-branch.zip?raw=true)
+- [formatted-html-page](formatted-html-page/) · [Scarica ZIP](formatted-html-page/formatted-html-page.zip?raw=true)
 - [geo-pratica](geo-pratica/) · [Scarica ZIP](geo-pratica/geo-pratica.zip?raw=true)
 - [hook-social](hook-social/) · [Scarica ZIP](hook-social/hook-social.zip?raw=true)
 - [instagram-competitor-reels](instagram-competitor-reels/) · [Scarica ZIP](instagram-competitor-reels/instagram-competitor-reels.zip?raw=true)
